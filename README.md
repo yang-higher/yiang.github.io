@@ -1,2 +1,0 @@
-# yiang.github.io
-blog
